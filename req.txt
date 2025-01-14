@@ -1,0 +1,13 @@
+git
+python3
+google
+google-api-core
+upgrade google-api-python-client
+google-api-python-client
+gitpython
+termcolor
+color
+httpx
+http
+requests
+bs4
